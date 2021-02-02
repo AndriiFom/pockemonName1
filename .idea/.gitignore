@@ -1,6 +1,9 @@
 # Default ignored files
 /shelf/
-/workspace.xml
-/idea/
+workspace.xml
+modules.xml
+pockemonName.iml
+vcs.xml
+.name
 # Editor-based HTTP Client requests
 /httpRequests/
